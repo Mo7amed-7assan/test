@@ -1,0 +1,14 @@
+E:\project visual\c# projects\test\test404\fs\bin\Debug\net8.0\fs.exe
+E:\project visual\c# projects\test\test404\fs\bin\Debug\net8.0\fs.deps.json
+E:\project visual\c# projects\test\test404\fs\bin\Debug\net8.0\fs.runtimeconfig.json
+E:\project visual\c# projects\test\test404\fs\bin\Debug\net8.0\fs.dll
+E:\project visual\c# projects\test\test404\fs\bin\Debug\net8.0\fs.pdb
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.GeneratedMSBuildEditorConfig.editorconfig
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.AssemblyInfoInputs.cache
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.AssemblyInfo.cs
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.csproj.CoreCompileInputs.cache
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.dll
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\refint\fs.dll
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.pdb
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\fs.genruntimeconfig.cache
+E:\project visual\c# projects\test\test404\fs\obj\Debug\net8.0\ref\fs.dll
